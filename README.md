@@ -1,4 +1,3 @@
-# Vector_Database_Analysis
 # Vector Databases
 
 ### **1. FAISS**
