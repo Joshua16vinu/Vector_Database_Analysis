@@ -15,7 +15,6 @@
 
 **Key:** FAISS is **compute-focused** and extremely fast, but offers minimal database features. No metadata storage by default.
 
-![image.png](attachment:019837c5-1aee-4830-a49e-746f39d2fdbd:aa66ec9e-c296-4518-842d-3d229b14e353.png)
 
 ---
 
@@ -34,7 +33,6 @@
 
 **Key:** ChromaDB is **database-focused**, supporting persistence, metadata, and seamless integration with applications or LLM pipelines.
 
-![image.png](attachment:37ca04ab-3a72-42cf-849d-a85128686ecb:70821fc4-1560-48b5-a0b7-643f7ddfdc9b.png)
 
 **ANALYSIS**
 
